@@ -9,6 +9,7 @@ namespace SampleClientApp
             Console.ForegroundColor = col;
             Console.WriteLine(s);
             Console.ResetColor();
+            Console.WriteLine('Hello World')
         }
 
         static public void Error(string s)
