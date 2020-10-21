@@ -10,6 +10,7 @@ namespace SampleClientApp
             Console.WriteLine(s);
             Console.ResetColor();
             Console.WriteLine('Hello World')
+            Console.WriteLine('Hello World2')
         }
 
         static public void Error(string s)
